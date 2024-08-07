@@ -37,7 +37,7 @@ This system uses a machine learning approach to detect and count vehicles at tra
 ## Usage
 
 1. **Prepare the dataset:**
-   - Place your training and validation images in the appropriate directories as specified in your dataset configuration.
+   - Add dataset relevent to specific use case (not included here)
 
 2. **Train the model:**
    ```python
